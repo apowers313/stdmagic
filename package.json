@@ -1,0 +1,32 @@
+{
+  "name": "stdmagic",
+  "version": "0.1.0",
+  "description": "Standard %magic commands for IJavascriptEX",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apowers313/stdmagic.git"
+  },
+  "keywords": [
+    "jupyter",
+    "ijavascript",
+    "ipython",
+    "kernel",
+    "magic",
+    "javascript"
+  ],
+  "author": "Adam Powers <apowers@ato.ms>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apowers313/stdmagic/issues"
+  },
+  "homepage": "https://github.com/apowers313/stdmagic#readme",
+  "devDependencies": {
+    "eslint-plugin-jsdoc": "^30.7.8",
+    "eslint-plugin-mocha": "^8.0.0",
+    "eslint-plugin-old-c-programmer": "^1.0.0"
+  }
+}
