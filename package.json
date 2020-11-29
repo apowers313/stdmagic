@@ -25,8 +25,16 @@
   },
   "homepage": "https://github.com/apowers313/stdmagic#readme",
   "devDependencies": {
+    "chai": "^4.2.0",
+    "eslint": "^7.14.0",
     "eslint-plugin-jsdoc": "^30.7.8",
     "eslint-plugin-mocha": "^8.0.0",
-    "eslint-plugin-old-c-programmer": "^1.0.0"
+    "eslint-plugin-old-c-programmer": "^1.0.1",
+    "mocha": "^8.2.1",
+    "std-mocks": "^1.0.1"
+  },
+  "dependencies": {
+    "envinfo": "^7.7.3",
+    "table": "^6.0.4"
   }
 }
