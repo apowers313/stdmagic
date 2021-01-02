@@ -1,3 +1,7 @@
+__This project has been merged into [magicpatch](https://github.com/apowers313/magicpatch)__
+
+---
+
 An expanded subset of [Jupyter](https://jupyter.org/) [magics](https://ipython.readthedocs.io/en/stable/interactive/magics.html#line-magics) for the [IJavascript kernel](https://github.com/n-riesco/ijavascript).
 
 # Installation
